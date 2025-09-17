@@ -1,4 +1,4 @@
-#  – Advanced PDF Editing Solution for macOS  
+Nitro PDF Pro – Advanced PDF Editing Solution for macOS
 
 <div align="center">  
 <img src="https://cdn.cookielaw.org/logos/3126d1a4-365c-4537-9093-3ee90642774c/33adf9a2-9f2e-4976-b389-1038247bc7ec/56f2887c-d23e-4036-8338-afa74a9ac2c8/logo_nitro_full_darkVersion.png" alt="Nitro PDF Pro Logo" width="260">  
